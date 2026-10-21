@@ -10,7 +10,11 @@ This optimized version is written for SEO Strategist, Organic Growth, Technical 
 - `cases.html` — case overview
 - `case-maggie.html` — Maggie Sun Real Estate case
 - `case-wjs.html` — WJS Home case
-- `case-mokafx.html` — MokaFX case
+- `case-mokafx.html` — Moka SFX case overview
+- `case-moka-sfx-ads.html` — Moka SFX paid media efficiency deep dive
+- `case-wjs-recovery.html` — WJS Home organic recovery deep dive
+- `case-maggie-local-growth.html` — Maggie Sun Real Estate local growth deep dive
+- `resume-copy-bilingual.md` — ready-to-use Chinese and English resume copy
 - `case-sunsara.html` — Sunsara Beauty case
 - `skills.html` — capabilities summary
 
