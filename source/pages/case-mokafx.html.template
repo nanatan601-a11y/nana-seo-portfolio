@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en" data-lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Moka SFX Case | Nana Tan</title>
+    <meta name="description" content="B2B SEO and SEM case study for Moka SFX." />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="index.html">Nana Tan</a>
+      <nav class="nav" aria-label="Main navigation">
+        <a href="index.html">Home</a>
+        <a class="active" href="cases.html">Cases</a>
+        <a href="skills.html">Capabilities</a>
+        <a href="#contact">Contact</a>
+        <span class="lang-toggle" aria-label="Language switcher">
+          <button class="active" type="button" data-set-lang="en">EN</button>
+          <button type="button" data-set-lang="zh">中文</button>
+        </span>
+      </nav>
+    </header>
+
+    <main>
+      <section class="case-hero">
+        <div>
+          <a class="back-link" href="cases.html">← Cases</a>
+          <span class="tag">B2B SEO + SEM</span>
+          <h1 class="en">B2B SEO and SEM for higher-quality leads.</h1>
+          <h1 class="zh">面向高质量询盘的 B2B SEO 与 SEM 案例。</h1>
+          <p class="body-copy en">
+            As the sole SEO owner for Moka SFX, I independently managed the project's SEO and search advertising optimization. I connected organic search data, paid campaign data, landing-page performance, and inquiry-quality feedback to improve B2B search growth and reduce wasted advertising spend.
+          </p>
+          <p class="body-copy zh">
+            作为 Moka SFX 项目的唯一 SEO 负责人，我独立承担 SEO 与搜索广告优化工作，并将自然搜索数据、广告数据、落地页表现和询盘质量反馈连接起来，推动 B2B 搜索增长并减少无效广告支出。
+          </p>
+          <div class="button-row">
+            <a class="btn primary" href="https://mokasfx.com" target="_blank" rel="noreferrer">Visit website</a>
+            <a class="btn" href="https://www.semrush.com/analytics/overview/?searchType=domain&q=mokasfx.com" target="_blank" rel="noreferrer">View Semrush</a>
+            <a class="btn en" href="case-moka-sfx-ads.html">See How I Reduced Wasted Ad Spend</a>
+            <a class="btn zh" href="case-moka-sfx-ads.html">查看我是如何减少无效广告支出</a>
+          </div>
+        </div>
+        <aside class="case-meta en">
+          <span><strong>Website:</strong> mokasfx.com</span>
+          <span><strong>Role:</strong> B2B SEO &amp; SEM Specialist</span>
+          <span><strong>SEO Ownership:</strong> Sole SEO owner</span>
+          <span><strong>Period:</strong> 2025.05 - 2025.09</span>
+          <span><strong>Industry:</strong> Stage equipment</span>
+        </aside>
+        <aside class="case-meta zh">
+          <span><strong>网站：</strong> mokasfx.com</span>
+          <span><strong>职位：</strong> B2B SEO &amp; SEM 专员</span>
+          <span><strong>负责范围：</strong> 项目唯一 SEO 负责人</span>
+          <span><strong>周期：</strong> 2025.05 - 2025.09</span>
+          <span><strong>行业：</strong> 舞台设备</span>
+        </aside>
+      </section>
+
+      <section class="section compact-section">
+        <div class="metrics-grid">
+          <div class="metric-card"><strong>+75%</strong><span class="en">organic traffic</span><span class="zh">自然流量</span></div>
+          <div class="metric-card"><strong>+100%</strong><span class="en">organic inquiries</span><span class="zh">自然询盘</span></div>
+          <div class="metric-card"><strong>400+</strong><span class="en">inquiries reviewed and optimized</span><span class="zh">询盘分析与优化</span></div>
+          <div class="metric-card"><strong>-25%</strong><span class="en">invalid inquiries in comparable monthly periods</span><span class="zh">相同月度周期内无效询盘</span></div>
+        </div>
+      </section>
+
+      <section class="case-detail-grid single-column">
+        <div class="bullet-panel">
+          <h2 class="en">Strategy & Execution</h2>
+          <h2 class="zh">策略与执行</h2>
+          <ul class="en">
+            <li>Used GSC and GA4 to identify high-potential commercial pages.</li>
+            <li>Optimized page content, TDK, URLs, HTML, schema, and internal links.</li>
+            <li>Built a weekly SEO monitoring workflow for traffic, keywords, pages, and conversion issues.</li>
+            <li>Reviewed Google Ads search terms and conversion paths.</li>
+            <li>Added negative keywords to reduce low-quality inquiries.</li>
+            <li>Connected SEO data, ad data, and landing page performance to improve lead quality.</li>
+          </ul>
+          <ul class="zh">
+            <li>使用 GSC 和 GA4 找出高潜力商业页面。</li>
+            <li>优化页面内容、TDK、URL、HTML、schema 和内链。</li>
+            <li>建立每周 SEO 巡检流程，跟踪流量、关键词、页面和转化问题。</li>
+            <li>复盘 Google Ads 搜索词和转化路径。</li>
+            <li>添加否定关键词，减少低质量询盘。</li>
+            <li>结合 SEO、广告和落地页表现，提升询盘质量。</li>
+          </ul>
+          <p class="case-note en">After optimization, monthly Google Ads spend was approximately $5.7K; a newly created ad group generated 7 qualified leads.</p>
+          <p class="case-note zh">优化后 Google Ads 月度支出约为 $5.7K；新建广告组获得 7 个有效线索。</p>
+        </div>
+      </section>
+
+      <nav class="case-nav" aria-label="Case navigation">
+        <a class="btn" href="case-wjs.html">Previous: WJS Home</a>
+        <a class="btn primary" href="case-sunsara.html">Next: Sunsara</a>
+      </nav>
+    </main>
+
+    <footer class="site-footer" id="contact">
+      <div>
+        <h2 class="en">Get in touch</h2>
+        <h2 class="zh">联系我</h2>
+        <p class="en">SEO Strategist focused on organic growth across e-commerce, B2B, and local markets.</p>
+        <p class="zh">专注电商、B2B 与本地市场自然增长的 SEO Strategist。</p>
+      </div>
+      <div class="contact-links">
+        <a href="mailto:nanatan601@gmail.com">nanatan601@gmail.com</a>
+        <a href="tel:+8618824148436">+86 188 2414 8436</a>
+      </div>
+    </footer>
+    <script src="assets/js/site.js"></script>
+  </body>
+</html>

@@ -74,7 +74,8 @@ img {
   background: var(--paper);
 }
 
-.lang-toggle button {
+.lang-toggle button,
+.lang-toggle a {
   border: 0;
   background: transparent;
   color: var(--muted);
@@ -83,7 +84,8 @@ img {
   padding: 8px 10px;
 }
 
-.lang-toggle button.active {
+.lang-toggle button.active,
+.lang-toggle a.active {
   background: var(--green);
   color: white;
 }

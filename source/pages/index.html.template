@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="en" data-lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Nana Tan | SEO Strategist Portfolio</title>
+    <meta
+      name="description"
+      content="Nana Tan is an SEO Strategist focused on organic growth across e-commerce, B2B, and local markets."
+    />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="index.html">Nana Tan</a>
+      <nav class="nav" aria-label="Main navigation">
+        <a class="active" href="index.html">Home</a>
+        <a href="cases.html">Cases</a>
+        <a href="skills.html">Capabilities</a>
+        <a href="#contact">Contact</a>
+        <span class="lang-toggle" aria-label="Language switcher">
+          <button class="active" type="button" data-set-lang="en">EN</button>
+          <button type="button" data-set-lang="zh">中文</button>
+        </span>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero hero-simple">
+        <div>
+          <p class="eyebrow en">SEO Strategist Portfolio</p>
+          <p class="eyebrow zh">SEO 策略作品集</p>
+          <h1 class="en">SEO Strategist focused on organic growth across e-commerce, B2B, and local markets.</h1>
+          <h1 class="zh">专注电商、B2B 与本地市场自然增长的 SEO Strategist。</h1>
+          <p class="lead en">
+            I help B2B, e-commerce, and local SEO websites turn search visibility into qualified leads and revenue.
+          </p>
+          <p class="lead zh">
+            我帮助 B2B、电商和本地 SEO 网站，把搜索曝光转化为有效询盘和收入。
+          </p>
+          <div class="hero-actions">
+            <a class="btn primary en" href="cases.html">View Cases</a>
+            <a class="btn en" href="skills.html">View Capabilities</a>
+            <a class="btn en" href="assets/resume/Nana-Tan-SEO-Resume-EN.pdf" download>Download Resume (EN)</a>
+            <a class="btn en" href="assets/resume/Tan-Danna-Overseas-SEO-Resume-ZH.pdf" download>下载中文简历</a>
+            <a class="btn primary zh" href="cases.html">查看案例</a>
+            <a class="btn zh" href="skills.html">查看能力</a>
+            <a class="btn zh" href="assets/resume/Tan-Danna-Overseas-SEO-Resume-ZH.pdf" download>下载中文简历</a>
+            <a class="btn zh" href="assets/resume/Nana-Tan-SEO-Resume-EN.pdf" download>Download Resume (EN)</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-intro">
+          <p class="eyebrow en">About</p>
+          <p class="eyebrow zh">关于</p>
+          <h2 class="en">About Nana Tan</h2>
+          <h2 class="zh">关于 Nana Tan</h2>
+          <p class="en">
+            A bilingual SEO strategist with hands-on experience in B2B, B2C e-commerce, and local SEO growth.
+          </p>
+          <p class="zh">
+            我是一名双语 SEO 策略型人才，有 B2B、C 端电商和本地 SEO 增长经验。
+          </p>
+        </div>
+        <div class="about-copy">
+          <p class="en">
+            I care about SEO results that matter: traffic, leads, purchases, revenue, and AI search visibility. My work connects keyword research, content, technical SEO, SEM, GEO, and page optimization into one growth system.
+          </p>
+          <p class="en">
+            B2C e-commerce trained me to read data quickly and think about conversion. B2B and local SEO helped me go deeper into one market, understand real customer questions, and build long-term search assets.
+          </p>
+          <p class="en">
+            I work well with content teams, developers, designers, website operators, product teams, sales, and support teams. I like turning messy SEO tasks into clear plans that can actually be done.
+          </p>
+          <p class="zh">
+            我关注真正有价值的 SEO 结果：流量、询盘、购买、收入，以及 AI 搜索曝光。我会把关键词研究、内容、技术 SEO、SEM、GEO 和页面优化连接成一个完整的增长系统。
+          </p>
+          <p class="zh">
+            C 端电商训练了我的数据敏感度和转化意识；B2B 和本地 SEO 让我更擅长深挖用户问题、理解市场需求，并沉淀长期搜索资产。
+          </p>
+          <p class="zh">
+            我能和内容、开发、设计、网站运营、产品、销售和客服团队协作，也擅长把混乱的 SEO 问题整理成清晰、能落地的执行计划。
+          </p>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-intro">
+          <p class="eyebrow en">Experience</p>
+          <p class="eyebrow zh">经历</p>
+          <h2 class="en">Experience timeline.</h2>
+          <h2 class="zh">经历时间线。</h2>
+        </div>
+        <div class="timeline">
+          <div class="timeline-item">
+            <span class="date">2026.01 - 2026.07</span>
+            <div><strong>Maggie Sun Real Estate Group</strong><p class="en">Local SEO &amp; SEM Strategist · Remote Project-based</p><p class="zh">本地 SEO &amp; SEM 策略师 · 海外远程项目制</p></div>
+            <p class="en">Sole SEO owner / 41 qualified leads / 6 closed transactions</p>
+            <p class="zh">独立负责 SEO 与 SEM / 41 个有效线索 / 6 个成交</p>
+          </div>
+          <div class="timeline-item">
+            <span class="date">2025.11 - 2026.07</span>
+            <div><strong>WJS Home</strong><p>B2C SEO Strategist</p></div>
+            <p class="en">Dedicated hands-on SEO / $265K+ USD Organic Search revenue / full-funnel growth</p>
+            <p class="zh">网站专职 SEO 执行 / 超过 26.5 万美元自然搜索收入 / 全链路增长</p>
+          </div>
+          <div class="timeline-item">
+            <span class="date">2025.05 - 2025.09</span>
+            <div><strong>Moka SFX</strong><p>B2B SEO + SEM Specialist</p></div>
+            <p class="en">Sole SEO owner / 400+ inquiries / technical SEO / Google Ads</p>
+            <p class="zh">项目唯一 SEO 负责人 / 400+ 询盘 / 技术 SEO / Google Ads</p>
+          </div>
+          <div class="timeline-item">
+            <span class="date">2022.11 - 2023.08</span>
+            <div><strong>Wuhan Fanke Culture Media</strong><p>TikTok English Host Intern</p></div>
+            <p class="en">English live content / user engagement / traffic conversion</p>
+            <p class="zh">英文直播内容 / 用户互动 / 流量转化</p>
+          </div>
+          <div class="timeline-item">
+            <span class="date">2022.07 - 2022.08</span>
+            <div><strong>7 Colors</strong><p>TikTok English Assistant Intern</p></div>
+            <p class="en">Account cold start / English scripts / customer questions</p>
+            <p class="zh">账号冷启动 / 英文脚本 / 客户问题沉淀</p>
+          </div>
+          <div class="timeline-item">
+            <span class="date">2020.07 - 2021.03</span>
+            <div><strong>Sunsara Beauty / Guangzhou Kaihe Technology</strong><p>SEO Intern &amp; Part-time SEO</p></div>
+            <p class="en">Sole SEO practitioner / keyword research / English content</p>
+            <p class="zh">项目唯一 SEO 执行人员 / 关键词研究 / 英文内容</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-intro">
+          <p class="eyebrow en">Selected Cases</p>
+          <p class="eyebrow zh">精选案例</p>
+          <h2 class="en">Four proof-backed SEO projects.</h2>
+          <h2 class="zh">四个有数据证明的 SEO 项目。</h2>
+        </div>
+        <div class="case-grid">
+          <article class="case-card">
+            <span class="tag en">Local SEO + SEM · Remote Project-based</span>
+            <span class="tag zh">本地 SEO + SEM · 海外远程项目制</span>
+            <h3>Maggie Sun Real Estate</h3>
+            <p class="en">Local SEO and bilingual SEM for a high-value Seattle real estate brand.</p>
+            <p class="zh">西雅图高客单价房地产行业的 Local SEO 与双语 SEM 案例。</p>
+            <a class="btn" href="case-maggie.html">View case</a>
+          </article>
+          <article class="case-card">
+            <span class="tag">E-commerce SEO</span>
+            <h3>WJS Home</h3>
+            <p class="en">E-commerce SEO for organic revenue and product discovery.</p>
+            <p class="zh">面向自然搜索收入和产品发现的电商 SEO 案例。</p>
+            <a class="btn" href="case-wjs.html">View case</a>
+          </article>
+          <article class="case-card">
+            <span class="tag">B2B SEO + SEM</span>
+            <h3>Moka SFX</h3>
+            <p class="en">B2B SEO and SEM for higher-quality leads.</p>
+            <p class="zh">面向高质量询盘的 B2B SEO 与 SEM 案例。</p>
+            <a class="btn" href="case-mokafx.html">View case</a>
+          </article>
+          <article class="case-card">
+            <span class="tag">Early B2B SEO</span>
+            <h3>Sunsara Beauty</h3>
+            <p class="en">Earlier B2B SEO foundation for an overseas hair care website.</p>
+            <p class="zh">海外洗护 B2B 网站的早期 SEO 基础经验。</p>
+            <a class="btn" href="case-sunsara.html">View case</a>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer" id="contact">
+      <div>
+        <h2 class="en">Get in touch</h2>
+        <h2 class="zh">联系我</h2>
+        <p class="en">SEO Strategist focused on organic growth across e-commerce, B2B, and local markets.</p>
+        <p class="zh">专注电商、B2B 与本地市场自然增长的 SEO Strategist。</p>
+      </div>
+      <div class="contact-links">
+        <a href="mailto:nanatan601@gmail.com">nanatan601@gmail.com</a>
+        <a href="tel:+8618824148436">+86 188 2414 8436</a>
+        <a class="en" href="assets/resume/Nana-Tan-SEO-Resume-EN.pdf" download>Download Resume (EN)</a>
+        <a class="zh" href="assets/resume/Tan-Danna-Overseas-SEO-Resume-ZH.pdf" download>下载中文简历</a>
+      </div>
+    </footer>
+    <script src="assets/js/site.js"></script>
+  </body>
+</html>

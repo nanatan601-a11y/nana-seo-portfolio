@@ -1,21 +1,3 @@
-const root = document.documentElement;
-const buttons = document.querySelectorAll("[data-set-lang]");
-const savedLanguage = localStorage.getItem("portfolio-language") || "en";
-
-function setLanguage(language) {
-  root.setAttribute("data-lang", language);
-  localStorage.setItem("portfolio-language", language);
-  buttons.forEach((button) => {
-    button.classList.toggle("active", button.dataset.setLang === language);
-  });
-}
-
-buttons.forEach((button) => {
-  button.addEventListener("click", () => setLanguage(button.dataset.setLang));
-});
-
-setLanguage(savedLanguage);
-
 document.querySelectorAll("[data-carousel]").forEach((carousel) => {
   const track = carousel.querySelector(".carousel-track");
   const slides = Array.from(carousel.querySelectorAll(".proof-card"));

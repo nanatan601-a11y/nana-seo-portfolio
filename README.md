@@ -1,6 +1,6 @@
 # Nana Tan Remote SEO Portfolio
 
-This is a static bilingual portfolio website for GitHub Pages.
+This is a static bilingual portfolio website for GitHub Pages. English pages live at the site root and Chinese pages live under `/zh/`, with self-referencing canonicals and reciprocal `hreflang` links.
 
 This optimized version is written for SEO Strategist, Organic Growth, Technical SEO, E-commerce SEO, International SEO, and SEO/GEO roles. It emphasizes business impact, technical SEO with developer collaboration, AI search visibility, English communication, and cross-functional execution.
 
@@ -17,6 +17,21 @@ This optimized version is written for SEO Strategist, Organic Growth, Technical 
 - `resume-copy-bilingual.md` — ready-to-use Chinese and English resume copy
 - `case-sunsara.html` — Sunsara Beauty case
 - `skills.html` — capabilities summary
+- `zh/` — generated Chinese versions of every public page
+- `assets/resume/` — downloadable English and Chinese resume PDFs
+- `source/pages/` — bilingual source templates used to generate the public pages
+- `sitemap.xml` and `robots.txt` — search discovery files
+
+## Update bilingual pages
+
+Edit the matching `source/pages/*.html.template` file, then regenerate and validate the public pages:
+
+```text
+python3 build_localized_site.py
+python3 validate_site.py
+```
+
+Do not edit the generated root or `/zh/` HTML files directly; the next build will overwrite them.
 
 ## Publish with GitHub Pages
 

@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en" data-lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>WJS Home Organic Recovery | Nana Tan</title>
+    <meta name="description" content="How Nana Tan recovered WJS Home's daily organic clicks from single digits to approximately 100." />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="index.html">Nana Tan</a>
+      <nav class="nav" aria-label="Main navigation">
+        <a href="index.html">Home</a>
+        <a class="active" href="cases.html">Cases</a>
+        <a href="skills.html">Capabilities</a>
+        <a href="#contact">Contact</a>
+        <span class="lang-toggle" aria-label="Language switcher">
+          <button class="active" type="button" data-set-lang="en">EN</button>
+          <button type="button" data-set-lang="zh">中文</button>
+        </span>
+      </nav>
+    </header>
+
+    <main>
+      <section class="case-hero deep-dive-hero">
+        <div>
+          <a class="back-link en" href="case-wjs.html">← WJS Home overview</a>
+          <a class="back-link zh" href="case-wjs.html">← 返回 WJS Home 概览</a>
+          <span class="tag">Organic Recovery</span>
+          <h1 class="en">Recovering organic search from single-digit daily clicks.</h1>
+          <h1 class="zh">从个位数点击恢复至每日约 100 次。</h1>
+          <p class="body-copy en">
+            WJS Home's daily GSC clicks fell sharply from approximately 100 to single digits. I used official Google documentation, GSC data, and affected page patterns to identify the primary content risks and develop a recovery plan. Following content consolidation and updates, daily clicks returned to approximately 100 within three months.
+          </p>
+          <p class="body-copy zh">
+            WJS Home 的 GSC 日均点击量从约 100 次快速下降至个位数。我结合 Google 官方资料、GSC 数据和受影响页面特征确认主要内容风险并制定恢复计划。完成内容整合与更新后，日均点击在约 3 个月内恢复至此前约 100 次的水平。
+          </p>
+        </div>
+        <aside class="case-meta">
+          <span class="en"><strong>My Role:</strong> B2C SEO Strategist</span>
+          <span class="en"><strong>Market:</strong> US E-commerce</span>
+          <span class="en"><strong>Period:</strong> November 2025–July 2026</span>
+          <span class="en"><strong>Data Source:</strong> Google Search Console &amp; GA4</span>
+          <span class="zh"><strong>我的职责：</strong>B2C SEO Strategist</span>
+          <span class="zh"><strong>市场：</strong>美国电商市场</span>
+          <span class="zh"><strong>周期：</strong>2025.11–2026.07</span>
+          <span class="zh"><strong>数据来源：</strong>Google Search Console 与 GA4</span>
+        </aside>
+      </section>
+
+      <section class="workflow-section">
+        <div class="workflow-intro">
+          <p class="eyebrow">Workflow</p>
+          <h2 class="en">From visibility loss to content recovery.</h2>
+          <h2 class="zh">从可见度下降到内容恢复。</h2>
+        </div>
+
+        <div class="workflow en">
+          <article class="workflow-step">
+            <span class="workflow-number">01</span>
+            <h2>Business Problem</h2>
+            <p>Multiple pages lost visibility at the same time, and daily GSC clicks fell from approximately 100 to single digits.</p>
+          </article>
+          <article class="workflow-step">
+            <span class="workflow-number">02</span>
+            <h2>Data Diagnosis</h2>
+            <p>I reviewed official Google guidance and exported the pages and queries with the largest click and ranking losses from GSC.</p>
+          </article>
+          <article class="workflow-step">
+            <span class="workflow-number">03</span>
+            <h2>Cause Assessment</h2>
+            <p>Affected pages showed template-driven content, topic overlap, limited original insight, and insufficient supporting data.</p>
+          </article>
+          <article class="workflow-step">
+            <span class="workflow-number">04</span>
+            <h2>Optimization</h2>
+            <p>I consolidated overlap and added authoritative data, transparent ranking criteria, original analysis, and differentiated content.</p>
+          </article>
+          <article class="workflow-step">
+            <span class="workflow-number">05</span>
+            <h2>Validation &amp; Learning</h2>
+            <p>Daily clicks returned to approximately 100 within three months, supported by a clearer people-first content standard.</p>
+          </article>
+        </div>
+
+        <div class="workflow zh">
+          <article class="workflow-step">
+            <span class="workflow-number">01</span>
+            <h2>业务问题</h2>
+            <p>大量页面同时失去搜索可见度，GSC 日均点击量从约 100 次下降至个位数。</p>
+          </article>
+          <article class="workflow-step">
+            <span class="workflow-number">02</span>
+            <h2>数据诊断</h2>
+            <p>查阅 Google 官方指南，并从 GSC 导出点击和排名损失最大的页面与查询。</p>
+          </article>
+          <article class="workflow-step">
+            <span class="workflow-number">03</span>
+            <h2>原因判断</h2>
+            <p>受影响页面普遍存在模板化、主题重叠、原创观点不足和缺少数据依据等问题。</p>
+          </article>
+          <article class="workflow-step">
+            <span class="workflow-number">04</span>
+            <h2>优化执行</h2>
+            <p>整合重复内容，补充权威数据、透明排名标准、原创分析和差异化内容。</p>
+          </article>
+          <article class="workflow-step">
+            <span class="workflow-number">05</span>
+            <h2>结果验证与复盘</h2>
+            <p>日均点击在约 3 个月内恢复至约 100 次，并建立以用户价值为核心的内容标准。</p>
+          </article>
+        </div>
+
+        <div class="source-links en">
+          <a href="https://status.search.google.com/summary?e=2" target="_blank" rel="noreferrer">Google Search ranking update history ↗</a>
+          <a href="https://developers.google.com/search/docs/monitor-debug/debugging-search-traffic-drops" target="_blank" rel="noreferrer">Debugging drops in Google Search traffic ↗</a>
+          <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noreferrer">Creating helpful, reliable, people-first content ↗</a>
+          <a href="https://developers.google.com/search/docs/essentials/spam-policies#scaled-content-abuse" target="_blank" rel="noreferrer">Scaled content abuse policy ↗</a>
+        </div>
+        <div class="source-links zh">
+          <a href="https://status.search.google.com/summary?e=2" target="_blank" rel="noreferrer">Google 搜索排名更新记录 ↗</a>
+          <a href="https://developers.google.com/search/docs/monitor-debug/debugging-search-traffic-drops" target="_blank" rel="noreferrer">Google 搜索流量下降诊断指南 ↗</a>
+          <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noreferrer">People-first content 指南 ↗</a>
+          <a href="https://developers.google.com/search/docs/essentials/spam-policies#scaled-content-abuse" target="_blank" rel="noreferrer">Scaled content abuse 政策 ↗</a>
+        </div>
+      </section>
+
+      <section class="evidence-section">
+        <div class="evidence-copy">
+          <p class="eyebrow en">Recovery Evidence</p>
+          <p class="eyebrow zh">恢复证据</p>
+          <h2 class="en">Back to the previous daily-click baseline.</h2>
+          <h2 class="zh">恢复至此前的日均点击水平。</h2>
+          <p class="en">The recovery was measured in Google Search Console, using the same daily-click metric across the decline and recovery periods.</p>
+          <p class="zh">下降与恢复阶段使用相同的 GSC 日均点击指标进行验证。</p>
+        </div>
+        <div>
+          <figure class="proof-frame">
+            <img src="assets/img/wjs-gsc.png" alt="WJS Home Google Search Console performance trend" />
+            <figcaption class="en">GSC performance trend used to monitor the decline, optimization period, and recovery.</figcaption>
+            <figcaption class="zh">用于监测流量下降、优化阶段和恢复过程的 GSC 趋势。</figcaption>
+          </figure>
+          <div class="milestone-grid">
+            <div class="milestone"><strong class="en">Decline</strong><strong class="zh">流量下降</strong><span class="en">~100 to single digits</span><span class="zh">约 100 次降至个位数</span></div>
+            <div class="milestone"><strong class="en">Optimization</strong><strong class="zh">优化开始</strong><span class="en">Consolidation and content upgrades</span><span class="zh">内容整合与质量升级</span></div>
+            <div class="milestone"><strong class="en">Recovery</strong><strong class="zh">恢复</strong><span class="en">Back to ~100 daily clicks in 3 months</span><span class="zh">约 3 个月恢复至每日约 100 次</span></div>
+          </div>
+        </div>
+      </section>
+
+      <nav class="case-nav" aria-label="Case navigation">
+        <a class="btn en" href="case-wjs.html">Back to overview</a>
+        <a class="btn zh" href="case-wjs.html">返回案例概览</a>
+        <a class="btn primary en" href="case-moka-sfx-ads.html">Next deep dive: Moka SFX</a>
+        <a class="btn primary zh" href="case-moka-sfx-ads.html">下一个深度案例：Moka SFX</a>
+      </nav>
+    </main>
+
+    <footer class="site-footer" id="contact">
+      <div>
+        <h2 class="en">Get in touch</h2>
+        <h2 class="zh">联系我</h2>
+        <p class="en">SEO Strategist focused on organic growth across e-commerce, B2B, and local markets.</p>
+        <p class="zh">专注电商、B2B 与本地市场自然增长的 SEO Strategist。</p>
+      </div>
+      <div class="contact-links">
+        <a href="mailto:nanatan601@gmail.com">nanatan601@gmail.com</a>
+        <a href="tel:+8618824148436">+86 188 2414 8436</a>
+      </div>
+    </footer>
+    <script src="assets/js/site.js"></script>
+  </body>
+</html>

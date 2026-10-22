@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /source/
+
+Sitemap: https://nanatan601-a11y.github.io/nana-seo-portfolio/sitemap.xml
