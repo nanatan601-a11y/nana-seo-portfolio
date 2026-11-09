@@ -133,8 +133,8 @@
       <nav class="case-nav" aria-label="Case navigation">
         <a class="btn en" href="case-mokafx.html">Back to overview</a>
         <a class="btn zh" href="case-mokafx.html">返回案例概览</a>
-        <a class="btn primary en" href="case-maggie-local-growth.html">Next deep dive: Maggie</a>
-        <a class="btn primary zh" href="case-maggie-local-growth.html">下一个深度案例：Maggie</a>
+        <a class="btn primary en" href="case-wjs-recovery.html">Next deep dive: WJS Home</a>
+        <a class="btn primary zh" href="case-wjs-recovery.html">下一个深度案例：WJS Home</a>
       </nav>
     </main>
 
@@ -148,6 +148,12 @@
       <div class="contact-links">
         <a href="mailto:nanatan601@gmail.com">nanatan601@gmail.com</a>
         <a href="tel:+8618824148436">+86 188 2414 8436</a>
+        <div class="footer-resumes">
+          <a class="btn en" href="assets/resume/Nana-Tan-SEO-Resume-EN.pdf" download>Download Resume (EN)</a>
+          <a class="btn en" href="assets/resume/Tan-Danna-Overseas-SEO-Resume-ZH.pdf" download>Download Resume (Chinese)</a>
+          <a class="btn zh" href="assets/resume/Tan-Danna-Overseas-SEO-Resume-ZH.pdf" download>下载中文简历</a>
+          <a class="btn zh" href="assets/resume/Nana-Tan-SEO-Resume-EN.pdf" download>下载英文简历</a>
+        </div>
       </div>
     </footer>
     <script src="assets/js/site.js"></script>

@@ -39,6 +39,16 @@
       <section class="section">
         <div class="case-grid case-grid-four">
           <article class="case-card">
+            <span class="tag">E-commerce SEO</span>
+            <h3>WJS Home</h3>
+            <p class="en">Dedicated hands-on SEO execution for organic revenue, product discovery, and traffic recovery.</p>
+            <p class="zh">专门负责网站 SEO 落地执行，覆盖自然搜索收入、产品发现和流量恢复。</p>
+            <div class="button-row compact">
+              <a class="btn primary" href="case-wjs.html">View case</a>
+              <a class="btn" href="https://wjshomestore.com" target="_blank" rel="noreferrer">Website</a>
+            </div>
+          </article>
+          <article class="case-card">
             <span class="tag en">Local SEO + SEM · Remote Project-based</span>
             <span class="tag zh">本地 SEO + SEM · 海外远程项目制</span>
             <h3>Maggie Sun Real Estate</h3>
@@ -47,16 +57,6 @@
             <div class="button-row compact">
               <a class="btn primary" href="case-maggie.html">View case</a>
               <a class="btn" href="https://maggiesunre.com" target="_blank" rel="noreferrer">Website</a>
-            </div>
-          </article>
-          <article class="case-card">
-            <span class="tag">E-commerce SEO</span>
-            <h3>WJS Home</h3>
-            <p class="en">Dedicated hands-on SEO execution for organic revenue, product discovery, and traffic recovery.</p>
-            <p class="zh">专门负责网站 SEO 落地执行，覆盖自然搜索收入、产品发现和流量恢复。</p>
-            <div class="button-row compact">
-              <a class="btn primary" href="case-wjs.html">View case</a>
-              <a class="btn" href="https://wjshomestore.com" target="_blank" rel="noreferrer">Website</a>
             </div>
           </article>
           <article class="case-card">
@@ -93,6 +93,12 @@
       <div class="contact-links">
         <a href="mailto:nanatan601@gmail.com">nanatan601@gmail.com</a>
         <a href="tel:+8618824148436">+86 188 2414 8436</a>
+        <div class="footer-resumes">
+          <a class="btn en" href="assets/resume/Nana-Tan-SEO-Resume-EN.pdf" download>Download Resume (EN)</a>
+          <a class="btn en" href="assets/resume/Tan-Danna-Overseas-SEO-Resume-ZH.pdf" download>Download Resume (Chinese)</a>
+          <a class="btn zh" href="assets/resume/Tan-Danna-Overseas-SEO-Resume-ZH.pdf" download>下载中文简历</a>
+          <a class="btn zh" href="assets/resume/Nana-Tan-SEO-Resume-EN.pdf" download>下载英文简历</a>
+        </div>
       </div>
     </footer>
     <script src="assets/js/site.js"></script>

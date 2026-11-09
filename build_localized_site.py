@@ -61,11 +61,11 @@ PAGE_META = {
     "case-wjs.html": {
         "en": (
             "WJS Home E-commerce SEO Case Study | Nana Tan",
-            "E-commerce SEO case study covering $265K+ USD in GA4 Organic Search revenue, Shopify technical SEO, content growth, and traffic recovery.",
+            "E-commerce SEO case study covering $260K+ USD in GA4 Organic Search revenue, Shopify technical SEO, content growth, and traffic recovery.",
         ),
         "zh": (
             "WJS Home 电商 SEO 案例｜谈丹娜",
-            "覆盖超过 26.5 万美元 GA4 自然搜索收入、Shopify 技术 SEO、内容增长和流量恢复的电商 SEO 案例。",
+            "覆盖超过 26 万美元 GA4 自然搜索收入、Shopify 技术 SEO、内容增长和流量恢复的电商 SEO 案例。",
         ),
         "type": "CreativeWork",
         "image": "assets/img/wjs-ga4.png",

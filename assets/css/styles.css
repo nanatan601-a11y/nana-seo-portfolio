@@ -869,3 +869,30 @@ h3 {
     padding-top: 52px;
   }
 }
+
+
+/* Keep resume downloads at the end, with clear contrast on the footer. */
+.footer-resumes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 12px;
+}
+
+.footer-resumes .btn {
+  border-color: rgba(255, 255, 255, 0.8);
+  color: white;
+  min-height: 44px;
+  font-size: 14px;
+  padding: 8px 14px;
+}
+
+.footer-resumes .btn:hover,
+.footer-resumes .btn:focus-visible {
+  background: white;
+  color: var(--green);
+}
+
+.bullet-panel li strong {
+  color: var(--ink);
+}
